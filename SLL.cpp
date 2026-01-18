@@ -123,6 +123,7 @@ int sumallvalues(ListNode *head) {
 bool isPalindrome(ListNode *head) {
     if (head && !head->next)
         return true;
+    // TODO
 }
 
 ListNode *removeElements(ListNode *head, int val) {
